@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> simran here </h3>
+<h1> Hello, Welcome to Thapar Insititute of Engineering and Technology !!! </h1>
+<h2> Mtech </h2>
+<h3> CSE </h3>
